@@ -1,0 +1,5 @@
+soundfile: read and write audio. 
+wave: read and write audio -- read and write 
+pyaudio: read and write audio, can also process microphone input
+audio classification using ML: https://www.youtube.com/watch?v=mHPpCXqQd7Y
+recommend code site: jupyter.org
